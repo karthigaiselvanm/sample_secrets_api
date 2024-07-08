@@ -1,0 +1,16 @@
+{
+    "name": "myproject",
+    "version": "1.0.0",
+    "description": "A sample project",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "publishConfig": {
+      "registry": "https://registry.npmjs.org/",
+      "//registry.npmjs.org/:_authToken": "npm_1234567890abcdef1234567890abcdef"
+    }
+  }
+  
