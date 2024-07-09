@@ -1,0 +1,3 @@
+- text: |
+    user=whatever@gitguardian.com
+    pass=www.google.com
